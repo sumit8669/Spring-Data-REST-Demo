@@ -1,20 +1,6 @@
 # Spring-Data-REST-Demo
 
-Spring Data Demo Description.
-
-
-Sumit Rana
-Description of spring data demo
-
-Unfortunately, I do not have any specific information about a "spring data demo" without further context. "Spring Data" is a module within the Spring Framework that provides a set of abstractions and utilities to simplify the implementation of data access layers in Java applications. It supports various data stores such as relational databases, NoSQL databases, and cloud storage.
-
-If you can provide me with more information about the specific demo you are referring to, I would be happy to help you with a more detailed description.
-
-
-
-
-Sumit Rana
-Use of spring data
+Spring Data Demo 
 
 Spring Data is a popular framework that provides a powerful and consistent way to interact with data stores in Java applications. It simplifies the implementation of data access layers by providing a set of abstractions and utilities for various data stores such as relational databases, NoSQL databases, and cloud storage.
 
